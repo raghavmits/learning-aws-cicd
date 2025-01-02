@@ -1,6 +1,6 @@
 def handler(event, context):
     response_body = {
-        "message": "Zindagi Mera Gaana!",
+        "message": "Na kisi ka thikana!",
         "version": "1.0.0"
 
     }
